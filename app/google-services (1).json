@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833717777147",
+    "project_id": "style-quest-ab3f9",
+    "storage_bucket": "style-quest-ab3f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833717777147:android:c46e734e6860d254ccf65e",
+        "android_client_info": {
+          "package_name": "net.coding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUcY68lWNSj-Im8CZb3grdbplKmzZ5_6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
