@@ -87,7 +87,7 @@ fun Var3Screen(navController: NavHostController) {
                         .padding(16.dp)
                 ) {
                     BookCard(
-                        bookTitle = "Book 1",
+                        bookTitle = "Item 1",
                         what = "what is the book About",
                         bookDescription = "Celebrate athleticism in style with this varsity jacket," +
                                 " crafted for comfort and durability, blending traditional collegiate appeal with contemporary fashion sensibilities.",

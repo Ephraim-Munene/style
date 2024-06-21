@@ -106,7 +106,7 @@ fun Des3Screen(navController: NavHostController) {
                         .padding(16.dp)
                 ) {
                     BookCard(
-                        name = "Book 1",
+                        name = "Item 1",
                         what = "what is the book About",
                         bookDescription = "A trendy canvas sneaker perfect for casual outings. Lightweight and flexible, with a padded collar and non-slip sole, offering a blend of comfort, durability, and modern urban flair.",
                         imageResId = R.drawable.shoes3,

@@ -106,7 +106,7 @@ fun Shir2Screen(navController: NavHostController) {
                         .padding(16.dp)
                 ) {
                     BookCard(
-                        name = "Book 1",
+                        name = "Item 1",
                         what = "what is the book About",
                         bookDescription = "Effortlessly stylish, this shirt exudes casual elegance with its modern cut and impeccable detailing," +
                                 " ideal for transitioning seamlessly from day to night.",

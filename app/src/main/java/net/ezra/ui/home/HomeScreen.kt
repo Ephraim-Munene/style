@@ -140,7 +140,7 @@ fun HomeScreen(navController: NavHostController) {
 
 
                                     Card(
-                                        Item = "UI/UX Courses",
+                                        Item = "Shoe 2",
                                         description = "Elevate your look with our sleek, timeless leather shoes designed for both casual and formal wear.",
                                         icon = painterResource(id = R.drawable.cart),
                                         image = painterResource(id = R.drawable.shoes2),
@@ -152,7 +152,7 @@ fun HomeScreen(navController: NavHostController) {
 
 
                                     Card(
-                                        Item = "UI/UX Courses",
+                                        Item = "Shoe 3",
                                         description = "discover the ultimate running companion with our high-performance shoes engineered for speed and durability.",
                                         icon = painterResource(id = R.drawable.cart),
                                         image = painterResource(id = R.drawable.shoes3),
@@ -163,7 +163,7 @@ fun HomeScreen(navController: NavHostController) {
 
 
                                     Card(
-                                        Item = "UI/UX Courses",
+                                        Item = "Shoe 4",
                                         description = "Make a bold statement with our vibrant, eco-friendly sneakers that fuse fashion with sustainability.",
                                         icon = painterResource(id = R.drawable.cart),
                                         image = painterResource(id = R.drawable.shoes4),

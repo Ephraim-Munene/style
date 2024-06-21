@@ -88,7 +88,7 @@ fun Tr2Screen(navController: NavHostController) {
                         .padding(16.dp)
                 ) {
                     BookCard1(
-                        bookTitle = "Book 1",
+                        bookTitle = "Item 1",
                         what = "what is the book About",
                         bookDescription = "Tailored for modern elegance, these trousers feature a sleek design with a flattering fit," +
                                 " crafted from quality materials for durability and comfort throughout the day.",

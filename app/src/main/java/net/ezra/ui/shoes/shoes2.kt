@@ -105,7 +105,7 @@ fun Des4Screen(navController: NavHostController) {
                         .padding(16.dp)
                 ) {
                     BookCard(
-                        name = "Book 1",
+                        name = "Item 1",
                         what = "what is the book About",
                         bookDescription = "A classic leather dress shoe exuding sophistication and style. Handcrafted with meticulous detail, featuring a cushioned insole and sturdy heel for all-day comfort and timeless elegance.",
                         imageResId = R.drawable.shoes2,

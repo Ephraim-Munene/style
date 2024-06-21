@@ -106,7 +106,7 @@ fun Tr3Screen(navController: NavHostController) {
                         .padding(16.dp)
                 ) {
                     BookCard4(
-                        bookTitle = "Book 1",
+                        bookTitle = "Item 1",
                         what = "what is the book About",
                         bookDescription = "Effortlessly chic, these trousers boast a contemporary " +
                                 "silhouette and fine detailing, ideal for making a sophisticated statement at work or during evening gatherings.",

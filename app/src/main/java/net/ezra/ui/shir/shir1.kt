@@ -105,7 +105,7 @@ fun Shir1Screen(navController: NavHostController) {
                         .padding(16.dp)
                 ) {
                     BookCard6(
-                        name = "Book 1",
+                        name = "Item 1",
                         what = "what is the book About",
                         bookDescription = "Elevate your wardrobe with this timeless shirt, " +
                                 "crafted from premium fabric for a luxurious feel and tailored to perfection, ensuring both comfort and sophistication.",

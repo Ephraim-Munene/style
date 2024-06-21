@@ -87,7 +87,7 @@ fun Var2Screen(navController: NavHostController) {
                         .padding(16.dp)
                 ) {
                     BookCard(
-                        bookTitle = "Book 1",
+                        bookTitle = "Item 1",
                         what = "what is the book About",
                         bookDescription = "With its retro charm and modern flair, this varsity jacket offers a stylish twist on a classic design, " +
                                 "perfect for layering over any outfit for a youthful and trendy look.",

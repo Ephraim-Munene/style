@@ -112,7 +112,7 @@ fun VarScreen(navController: NavHostController) {
                             .padding(16.dp)
                     ) {
                         BookCard(
-                            bookTitle = "Book 1",
+                            bookTitle = "Item 1",
                             what = "what is the book About",
                             bookDescription = "Iconic and sporty, this varsity jacket embodies timeless American style," +
                                     " featuring premium materials and classic details that make it a versatile choice for any casual ensemble.",

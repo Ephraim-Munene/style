@@ -105,7 +105,7 @@ fun Des2Screen(navController: NavHostController) {
                             .padding(16.dp)
                     ) {
                         BookCard(
-                            name = "Book 1",
+                            name = "Item 1",
                             what = "what is the book About",
                             bookDescription = "An adventure-ready hiking boot built for rugged terrain. Waterproof and insulated, with a grippy tread and ankle support, ensuring stability and protection in challenging outdoor conditions.",
                             imageResId = R.drawable.shoes4,
