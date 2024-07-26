@@ -108,7 +108,7 @@ fun DesScreen(navController: NavHostController) {
                     ) {
                         BookCard(
                             bookTitle = "Item 1",
-                            what = "what is the book About",
+                            what = "what is all about",
                             bookDescription = "A sleek, high-performance running shoe designed for comfort and speed. Engineered with breathable mesh, cushioned midsole, and durable rubber outsole for optimal support and traction on any terrain.",
                             imageResId = R.drawable.shoes1,
                             destination = ROUTE_SHOES1,
